@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elkantar</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Elkantar</h1>
 <h3 align="center">A passionate back-end Developper</h3>
 
 - 🔭 I’m currently working on **gamedev with godot**
