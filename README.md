@@ -7,6 +7,7 @@
     </a>
 </div>
 
+<details>
 - 🔭 I’m currently working on **gamedev with Godot**
 - 🌱 I’m currently learning **Lua and Godot**
 
@@ -61,5 +62,5 @@
 </div>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkantar&show_icons=true&locale=en&layout=compact" alt="elkantar" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elkantar&show_icons=true&locale=en&layout=compact" alt="elkantar" />
 </p>
