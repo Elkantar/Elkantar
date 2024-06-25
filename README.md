@@ -9,6 +9,7 @@
 
 <details>
 - 🔭 I’m currently working on **gamedev with Godot**
+    <br>
 - 🌱 I’m currently learning **Lua and Godot**
 
 <div align="left">
