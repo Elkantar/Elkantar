@@ -8,9 +8,9 @@
 </div>
 
 <details>
-- 🔭 I’m currently working on **gamedev with Godot**
+- 🔭 I’m currently working on **React**
     <br>
-- 🌱 I’m currently learning **Lua and Godot**
+- 🌱 I’m currently learning **Lua and React**
 
 <div align="left">
     <h3>Languages and Tools:</h3>
