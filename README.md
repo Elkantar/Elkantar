@@ -8,10 +8,12 @@
 </div>
 
 <details>
+<!-- 
 - 🔭 I’m currently working on **React**
     <br>
 - 🌱 I’m currently learning **Lua and React**
 
+-->
 <div align="left">
     <h3>Languages and Tools:</h3>
     <p>
