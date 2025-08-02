@@ -9,9 +9,9 @@
 
 <details>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Godot**
     <br>
-- 🌱 I’m currently learning **Lua and React**
+<!-- - 🌱 I’m currently learning **Lua and React**-->
 
 
 <div align="left">
